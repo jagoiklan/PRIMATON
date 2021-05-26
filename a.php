@@ -1,349 +1,1063 @@
 
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
-<title>Sanjaya Safe &#8211; Madu Maag Salam</title>
-<meta name="robots" content="index,follow"/>
-<meta property="og:type" content="website"/>
-<meta property="og:site_name" content="Madu Maag Salam"/>
-<meta property="og:url" content="https://ok-shopping.online/sanjaya-safe/"/>
-<link rel="alternate" type="application/rss+xml" title="Madu Maag Salam &raquo; Feed" href="https://ok-shopping.online/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Madu Maag Salam &raquo; Comments Feed" href="https://ok-shopping.online/comments/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://ok-shopping.online/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-css'  href='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-animations-css'  href='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css'  href='https://ok-shopping.online/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13' type='text/css' media='all' />
-<style id='elementor-frontend-inline-css' type='text/css'>
-.elementor-widget-heading .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-image .widget-image-caption{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-text-editor{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#6ec1e4;}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:#6ec1e4;border-color:#6ec1e4;}.elementor-widget-button .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-divider{--divider-border-color:#54595f;}.elementor-widget-divider .elementor-divider__text{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-divider.elementor-view-stacked .elementor-icon{background-color:#54595f;}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon{color:#54595f;border-color:#54595f;}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg{fill:#54595f;}.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-description{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-icon.elementor-view-stacked .elementor-icon{background-color:#6ec1e4;}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon{color:#6ec1e4;border-color:#6ec1e4;}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg{fill:#6ec1e4;}.elementor-widget-icon-box.elementor-view-stacked .elementor-icon{background-color:#6ec1e4;}.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon{fill:#6ec1e4;color:#6ec1e4;border-color:#6ec1e4;}.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-star-rating .elementor-star-rating__title{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-image-carousel .elementor-image-carousel-caption{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-image-gallery .gallery-item .gallery-caption{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:#7a7a7a;}.elementor-widget-icon-list .elementor-icon-list-icon i{color:#6ec1e4;}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:#6ec1e4;}.elementor-widget-icon-list .elementor-icon-list-text{color:#54595f;}.elementor-widget-icon-list .elementor-icon-list-item{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-counter .elementor-counter-number-wrapper{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-counter .elementor-counter-title{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar{background-color:#6ec1e4;}.elementor-widget-progress .elementor-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-testimonial .elementor-testimonial-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-testimonial .elementor-testimonial-name{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-testimonial .elementor-testimonial-job{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-tabs .elementor-tab-title, .elementor-widget-tabs .elementor-tab-title a{color:#6ec1e4;}.elementor-widget-tabs .elementor-tab-title.elementor-active a{color:#61ce70;}.elementor-widget-tabs .elementor-tab-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-tabs .elementor-tab-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-accordion .elementor-accordion-icon, .elementor-widget-accordion .elementor-accordion-title{color:#6ec1e4;}.elementor-widget-accordion .elementor-active .elementor-accordion-icon, .elementor-widget-accordion .elementor-active .elementor-accordion-title{color:#61ce70;}.elementor-widget-accordion .elementor-accordion .elementor-accordion-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-accordion .elementor-accordion .elementor-tab-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-toggle .elementor-toggle-title, .elementor-widget-toggle .elementor-toggle-icon{color:#6ec1e4;}.elementor-widget-toggle .elementor-tab-title.elementor-active a, .elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon{color:#61ce70;}.elementor-widget-toggle .elementor-toggle .elementor-toggle-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-toggle .elementor-toggle .elementor-tab-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-alert .elementor-alert-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-alert .elementor-alert-description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-button_lp a.elementor-button, .elementor-widget-button_lp .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_whatsapp a.elementor-button, .elementor-widget-button_whatsapp .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-image_lp .widget-image-caption{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-button_video a.elementor-button, .elementor-widget-button_video .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-countdown_simple .elementor-countdown-simple{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-countdown_evergreen .elementor-countdown-simple{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-optin .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-optin .elementor-lp-form-wrapper input[type="text"], .elementor-widget-optin .elementor-lp-form-wrapper input[type="email"], .elementor-widget-optin .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-optin .elementor-lp-form-wrapper input[type="submit"], .elementor-widget-optin .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-popup-block-white .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-popup-block-white .elementor-lp-form-wrapper input[type="text"], .elementor-popup-block-white .elementor-lp-form-wrapper input[type="email"], .elementor-popup-block-white .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-popup-block-white .elementor-lp-form-wrapper input[type="submit"], .elementor-popup-block-white .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-optin_2steps a.elementor-button, .elementor-widget-optin_2steps .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_slider_image .lp-slider-wrapper .lp-slide-image-caption{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-lp_slider_content .lp-slider-heading{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-lp_slider_content .lp-slider-description{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper input[type="text"], .elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper input[type="email"], .elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper input[type="submit"], .elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_whatsapp_popup a.elementor-button, .elementor-widget-lp_whatsapp_popup .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_contact_form .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_contact_form .elementor-lp-form-wrapper input[type="text"], .elementor-widget-lp_contact_form .elementor-lp-form-wrapper input[type="email"], .elementor-widget-lp_contact_form .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_contact_form .elementor-lp-form-wrapper input[type="submit"], .elementor-widget-lp_contact_form .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper input[type="text"], .elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper input[type="email"], .elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper input[type="submit"], .elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_navigation_menu .lp-navmenu-items li a, .elementor-widget-lp_navigation_menu .lp-navmenu-items li a:visited{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_posts_grid .lp-posts-grid-wrapper li h4 a{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-lp_posts_grid .lp-posts-grid-wrapper li p{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-button_sms .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_tel .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_line .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_wagroup .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_messenger .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_telegram .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_instagram .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-theme-site-logo .widget-image-caption{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-theme-site-title .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-theme-page-title .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-theme-post-title .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-theme-post-excerpt .elementor-widget-container{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-theme-post-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-theme-post-featured-image .widget-image-caption{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-theme-archive-title .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-archive-posts .elementor-post__title, .elementor-widget-archive-posts .elementor-post__title a{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-archive-posts .elementor-post__meta-data{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-archive-posts .elementor-post__excerpt p{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-archive-posts .elementor-post__read-more{color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-archive-posts .elementor-post__card .elementor-post__badge{background-color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-archive-posts .elementor-pagination{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-archive-posts .elementor-posts-nothing-found{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-posts .elementor-post__title, .elementor-widget-posts .elementor-post__title a{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-posts .elementor-post__meta-data{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-posts .elementor-post__excerpt p{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-posts .elementor-post__read-more{color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-posts .elementor-post__card .elementor-post__badge{background-color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-posts .elementor-pagination{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-portfolio a .elementor-portfolio-item__overlay{background-color:#61ce70;}.elementor-widget-portfolio .elementor-portfolio-item__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-portfolio .elementor-portfolio__filter{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-portfolio .elementor-portfolio__filter.elementor-active{color:#6ec1e4;}.elementor-widget-gallery .elementor-gallery-item__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-gallery .elementor-gallery-item__description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-gallery{--galleries-title-color-normal:#6ec1e4;--galleries-title-color-hover:#54595f;--galleries-pointer-bg-color-hover:#61ce70;--gallery-title-color-active:#54595f;--galleries-pointer-bg-color-active:#61ce70;}.elementor-widget-gallery .elementor-gallery-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-form .elementor-field-group > label, .elementor-widget-form .elementor-field-subgroup label{color:#7a7a7a;}.elementor-widget-form .elementor-field-group > label{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-form .elementor-field-type-html{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-form .elementor-field-group .elementor-field{color:#7a7a7a;}.elementor-widget-form .elementor-field-group .elementor-field, .elementor-widget-form .elementor-field-subgroup label{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-form .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-form .e-form__buttons__wrapper__button-next{background-color:#61ce70;}.elementor-widget-form .elementor-button[type="submit"]{background-color:#61ce70;}.elementor-widget-form .e-form__buttons__wrapper__button-previous{background-color:#61ce70;}.elementor-widget-form .elementor-message{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-form .e-form__indicators__indicator, .elementor-widget-form .e-form__indicators__indicator__label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-form{--e-form-steps-indicator-inactive-primary-color:#7a7a7a;--e-form-steps-indicator-active-primary-color:#61ce70;--e-form-steps-indicator-completed-primary-color:#61ce70;--e-form-steps-indicator-progress-color:#61ce70;--e-form-steps-indicator-progress-background-color:#7a7a7a;--e-form-steps-indicator-progress-meter-color:#7a7a7a;}.elementor-widget-form .e-form__indicators__indicator__progress__meter{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-login .elementor-field-group > a{color:#7a7a7a;}.elementor-widget-login .elementor-field-group > a:hover{color:#61ce70;}.elementor-widget-login .elementor-form-fields-wrapper label{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-login .elementor-field-group .elementor-field{color:#7a7a7a;}.elementor-widget-login .elementor-field-group .elementor-field, .elementor-widget-login .elementor-field-subgroup label{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-login .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-login .elementor-widget-container .elementor-login__logged-in-message{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-slides .elementor-slide-heading{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-slides .elementor-slide-description{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-slides .elementor-slide-button{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:#7a7a7a;}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
-					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
-					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
-					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:#61ce70;}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
-					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#61ce70;}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
-					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:#61ce70;}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-animated-headline .elementor-headline-dynamic-wrapper path{stroke:#61ce70;}.elementor-widget-animated-headline .elementor-headline-plain-text{color:#54595f;}.elementor-widget-animated-headline .elementor-headline{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-animated-headline .elementor-headline-dynamic-text{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-list .elementor-price-list-header{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-list .elementor-price-list-description{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-price-list .elementor-price-list-separator{border-bottom-color:#54595f;}.elementor-widget-price-table .elementor-price-table__header{background-color:#54595f;}.elementor-widget-price-table .elementor-price-table__heading{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-table .elementor-price-table__subheading{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-price-table .elementor-price-table__price{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-table .elementor-price-table__original-price{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-table .elementor-price-table__period{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-price-table .elementor-price-table__features-list{color:#7a7a7a;}.elementor-widget-price-table .elementor-price-table__features-list li{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-price-table .elementor-price-table__features-list li:before{border-top-color:#7a7a7a;}.elementor-widget-price-table .elementor-price-table__button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-price-table .elementor-price-table__additional_info{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-price-table .elementor-price-table__ribbon-inner{background-color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-flip-box .elementor-flip-box__button{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-call-to-action .elementor-cta__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-call-to-action .elementor-cta__description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-call-to-action .elementor-cta__button{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-call-to-action .elementor-ribbon-inner{background-color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-media-carousel .elementor-carousel-image-overlay{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-testimonial-carousel .elementor-testimonial__text{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-testimonial-carousel .elementor-testimonial__name{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-testimonial-carousel .elementor-testimonial__title{color:#6ec1e4;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-reviews .elementor-testimonial__header, .elementor-widget-reviews .elementor-testimonial__name{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-reviews .elementor-testimonial__text{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-table-of-contents{--header-color:#54595f;--item-text-color:#7a7a7a;--item-text-hover-color:#61ce70;--marker-color:#7a7a7a;}.elementor-widget-table-of-contents .elementor-toc__header, .elementor-widget-table-of-contents .elementor-toc__header-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-table-of-contents .elementor-toc__list-item{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-countdown .elementor-countdown-item{background-color:#6ec1e4;}.elementor-widget-countdown .elementor-countdown-digits{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-countdown .elementor-countdown-label{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-countdown .elementor-countdown-expire--message{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-search-form input[type="search"].elementor-search-form__input{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-search-form .elementor-search-form__input,
-					.elementor-widget-search-form .elementor-search-form__icon,
-					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button,
-					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button:hover,
-					.elementor-widget-search-form.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input{color:#7a7a7a;}.elementor-widget-search-form .elementor-search-form__submit{font-family:"Roboto", Sans-serif;font-weight:400;background-color:#54595f;}.elementor-widget-author-box .elementor-author-box__name{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-author-box .elementor-author-box__bio{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-author-box .elementor-author-box__button{color:#54595f;border-color:#54595f;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-author-box .elementor-author-box__button:hover{border-color:#54595f;color:#54595f;}.elementor-widget-post-navigation span.post-navigation__prev--label{color:#7a7a7a;}.elementor-widget-post-navigation span.post-navigation__next--label{color:#7a7a7a;}.elementor-widget-post-navigation span.post-navigation__prev--label, .elementor-widget-post-navigation span.post-navigation__next--label{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-post-navigation span.post-navigation__prev--title, .elementor-widget-post-navigation span.post-navigation__next--title{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-post-info .elementor-icon-list-item:not(:last-child):after{border-color:#7a7a7a;}.elementor-widget-post-info .elementor-icon-list-icon i{color:#6ec1e4;}.elementor-widget-post-info .elementor-icon-list-icon svg{fill:#6ec1e4;}.elementor-widget-post-info .elementor-icon-list-text, .elementor-widget-post-info .elementor-icon-list-text a{color:#54595f;}.elementor-widget-post-info .elementor-icon-list-item{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-sitemap .elementor-sitemap-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-sitemap .elementor-sitemap-item, .elementor-widget-sitemap span.elementor-sitemap-list, .elementor-widget-sitemap .elementor-sitemap-item a{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-sitemap .elementor-sitemap-item{color:#7a7a7a;}.elementor-widget-blockquote .elementor-blockquote__content{color:#7a7a7a;}.elementor-widget-blockquote .elementor-blockquote__author{color:#54595f;}.elementor-widget-lottie{--caption-color:#7a7a7a;}.elementor-widget-lottie .e-lottie__caption{font-family:"Roboto", Sans-serif;font-weight:400;}
-.elementor-735 .elementor-element.elementor-element-14f836cd > .elementor-container{max-width:980px;min-height:100px;}.elementor-735 .elementor-element.elementor-element-14f836cd > .elementor-container:after{content:"";min-height:inherit;}.elementor-735 .elementor-element.elementor-element-14f836cd > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-735 .elementor-element.elementor-element-1ec0cde4 .elementor-heading-title{font-family:"Pacifico", Sans-serif;font-size:35px;font-weight:200;}.elementor-735 .elementor-element.elementor-element-77ac6912{text-align:right;}.elementor-735 .elementor-element.elementor-element-77ac6912 .elementor-social-icon{font-size:17px;padding:0.8em;}.elementor-735 .elementor-element.elementor-element-77ac6912 .elementor-social-icon:not(:last-child){margin-right:10px;}.elementor-735 .elementor-element.elementor-element-4d3827bd > .elementor-container{min-height:550px;}.elementor-735 .elementor-element.elementor-element-4d3827bd > .elementor-container:after{content:"";min-height:inherit;}.elementor-735 .elementor-element.elementor-element-4d3827bd:not(.elementor-motion-effects-element-type-background), .elementor-735 .elementor-element.elementor-element-4d3827bd > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://ok-shopping.online/wp-content/uploads/2021/01/natalya-zaritskaya-144626.jpg");background-position:center center;background-size:cover;}.elementor-735 .elementor-element.elementor-element-4d3827bd > .elementor-background-overlay{opacity:0.25;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-735 .elementor-element.elementor-element-4d3827bd{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-735 .elementor-element.elementor-element-4d3827bd > .elementor-shape-bottom .elementor-shape-fill{fill:#003e53;}.elementor-735 .elementor-element.elementor-element-13dc73de > .elementor-container{max-width:980px;}.elementor-735 .elementor-element.elementor-element-13dc73de > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-735 .elementor-element.elementor-element-13dc73de:not(.elementor-motion-effects-element-type-background), .elementor-735 .elementor-element.elementor-element-13dc73de > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#003e53;}.elementor-735 .elementor-element.elementor-element-13dc73de{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 30px 0px;}.elementor-735 .elementor-element.elementor-element-13dc73de > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-735 .elementor-element.elementor-element-4013e1b7 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-17267b8a .elementor-heading-title{color:#ffffff;font-family:"Roboto", Sans-serif;font-size:36px;font-weight:300;}.elementor-735 .elementor-element.elementor-element-6e72224b .elementor-button{font-family:"Playfair Display", Sans-serif;background-color:#e4bc36;border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-6e72224b .elementor-button:hover, .elementor-735 .elementor-element.elementor-element-6e72224b .elementor-button:focus{background-color:#8daca6;}.elementor-735 .elementor-element.elementor-element-3b2968b5 > .elementor-container{max-width:980px;}.elementor-735 .elementor-element.elementor-element-3b2968b5 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-735 .elementor-element.elementor-element-3b2968b5{padding:80px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-1bdeb5c > .elementor-element-populated{padding:0px 60px 0px 0px;}.elementor-735 .elementor-element.elementor-element-536f847c .elementor-heading-title{color:#8daca6;font-family:"Playfair Display", Sans-serif;font-size:36px;font-weight:normal;}.elementor-735 .elementor-element.elementor-element-41c00de9{font-family:"Roboto", Sans-serif;}.elementor-735 .elementor-element.elementor-element-719d06d8 .elementor-button{font-family:"Playfair Display", Sans-serif;background-color:#e4bc36;border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-719d06d8 .elementor-button:hover, .elementor-735 .elementor-element.elementor-element-719d06d8 .elementor-button:focus{background-color:#8daca6;}.elementor-735 .elementor-element.elementor-element-39d93ecb .elementor-image img{border-style:solid;border-width:10px 10px 10px 10px;border-color:#ffffff;box-shadow:10px 10px 20px 0px rgba(0,0,0,0.12);}.elementor-735 .elementor-element.elementor-element-518c41c0 > .elementor-container{max-width:980px;}.elementor-735 .elementor-element.elementor-element-518c41c0 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-735 .elementor-element.elementor-element-518c41c0{padding:80px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-43145d99 .elementor-image img{border-style:solid;border-width:10px 10px 10px 10px;border-color:#ffffff;box-shadow:-10px 10px 20px 0px rgba(0,0,0,0.12);}.elementor-735 .elementor-element.elementor-element-2c88af16 > .elementor-element-populated{padding:0px 0px 0px 60px;}.elementor-735 .elementor-element.elementor-element-7ca08438 .elementor-heading-title{color:#8daca6;font-family:"Playfair Display", Sans-serif;font-size:36px;font-weight:normal;}.elementor-735 .elementor-element.elementor-element-69186cd6{font-family:"Roboto", Sans-serif;}.elementor-735 .elementor-element.elementor-element-4aa57835 .elementor-button{font-family:"Playfair Display", Sans-serif;background-color:#e4bc36;border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-4aa57835 .elementor-button:hover, .elementor-735 .elementor-element.elementor-element-4aa57835 .elementor-button:focus{background-color:#8daca6;}.elementor-735 .elementor-element.elementor-element-8cee542 > .elementor-container{max-width:980px;}.elementor-735 .elementor-element.elementor-element-8cee542 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-735 .elementor-element.elementor-element-8cee542{padding:80px 0px 80px 0px;}.elementor-735 .elementor-element.elementor-element-506f56be > .elementor-element-populated{padding:0px 60px 0px 0px;}.elementor-735 .elementor-element.elementor-element-2730d890 .elementor-heading-title{color:#8daca6;font-family:"Playfair Display", Sans-serif;font-size:36px;font-weight:normal;}.elementor-735 .elementor-element.elementor-element-1b85e499{font-family:"Roboto", Sans-serif;}.elementor-735 .elementor-element.elementor-element-3d574d5 .elementor-button{font-family:"Playfair Display", Sans-serif;background-color:#e4bc36;border-radius:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-3d574d5 .elementor-button:hover, .elementor-735 .elementor-element.elementor-element-3d574d5 .elementor-button:focus{background-color:#8daca6;}.elementor-735 .elementor-element.elementor-element-30d62c67 .elementor-image img{border-style:solid;border-width:10px 10px 10px 10px;border-color:#ffffff;box-shadow:10px 10px 20px 0px rgba(0,0,0,0.12);}@media(min-width:768px){.elementor-735 .elementor-element.elementor-element-4013e1b7{width:64.388%;}.elementor-735 .elementor-element.elementor-element-32fda04a{width:35.613%;}}@media(max-width:1024px){.elementor-735 .elementor-element.elementor-element-14f836cd{padding:0px 20px 0px 20px;}.elementor-735 .elementor-element.elementor-element-77ac6912{text-align:right;}.elementor-735 .elementor-element.elementor-element-13dc73de{padding:0px 20px 0px 20px;}.elementor-735 .elementor-element.elementor-element-6e72224b .elementor-button{font-size:15px;}.elementor-735 .elementor-element.elementor-element-3b2968b5{padding:60px 30px 30px 30px;}.elementor-735 .elementor-element.elementor-element-518c41c0{padding:30px 30px 30px 30px;}.elementor-735 .elementor-element.elementor-element-8cee542{padding:30px 30px 60px 30px;}}@media(max-width:767px){.elementor-735 .elementor-element.elementor-element-14f836cd{padding:25px 25px 25px 25px;}.elementor-735 .elementor-element.elementor-element-1ec0cde4{text-align:center;}.elementor-735 .elementor-element.elementor-element-13dc73de{padding:30px 30px 30px 30px;}.elementor-735 .elementor-element.elementor-element-17267b8a{text-align:center;}.elementor-735 .elementor-element.elementor-element-17267b8a .elementor-heading-title{font-size:32px;}.elementor-735 .elementor-element.elementor-element-1bdeb5c > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-536f847c{text-align:center;}.elementor-735 .elementor-element.elementor-element-41c00de9 .elementor-text-editor{text-align:center;}.elementor-735 .elementor-element.elementor-element-39d93ecb > .elementor-widget-container{padding:0px 0px 30px 0px;}.elementor-735 .elementor-element.elementor-element-43145d99 > .elementor-widget-container{padding:0px 0px 30px 0px;}.elementor-735 .elementor-element.elementor-element-2c88af16 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-7ca08438{text-align:center;}.elementor-735 .elementor-element.elementor-element-69186cd6 .elementor-text-editor{text-align:center;}.elementor-735 .elementor-element.elementor-element-506f56be > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-735 .elementor-element.elementor-element-2730d890{text-align:center;}.elementor-735 .elementor-element.elementor-element-1b85e499 .elementor-text-editor{text-align:center;}.elementor-735 .elementor-element.elementor-element-30d62c67 > .elementor-widget-container{padding:0px 0px 30px 0px;}}
-</style>
-<link rel='stylesheet' id='elementor-pro-css'  href='https://ok-shopping.online/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.3' type='text/css' media='all' />
-<link rel='stylesheet' id='landingpress-css'  href='https://ok-shopping.online/wp-content/themes/landingpress-wp/style.css?ver=3.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPacifico%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPlayfair+Display%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.4' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
-<link rel="canonical" href="https://ok-shopping.online/sanjaya-safe/" />
-<link rel='shortlink' href='https://ok-shopping.online/?p=735' />
-		<script>
-			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
-		</script>
-				<style>
-			.no-js img.lazyload { display: none; }
-			figure.wp-block-image img.lazyloading { min-width: 150px; }
-							.lazyload, .lazyloading { opacity: 0; }
-				.lazyloaded {
-					opacity: 1;
-					transition: opacity 400ms;
-					transition-delay: 0ms;
-				}
-					</style>
-		<style type="text/css">
-svg { width: 1em; height: 1em; fill: currentColor; display: inline-block; vertical-align: middle; margin-top: -2px; } 
-</style>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PPQCQB7');</script>
-<!-- End Google Tag Manager -->
-</head>
-<body class="page-template page-template-page_landingpress page-template-page_landingpress-php page page-id-735 page-landingpress page-landingpress-full header-inactive footer-inactive elementor-default elementor-kit-11 elementor-page elementor-page-735">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe 
-height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-PPQCQB7" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-<div class="site-canvas">
-<div id="page" class="site-container">
-<div class="site-inner">
-		<div id="content" class="site-content">
-		<div class="container">
-			<div id="primary" class="content-area">
-	<main id="main" class="site-main">
-			<div data-elementor-type="wp-page" data-elementor-id="735" class="elementor elementor-735" data-elementor-settings="[]">
-			<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-							<section class="elementor-element elementor-element-14f836cd elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="14f836cd" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-38322512 elementor-column elementor-col-50 elementor-top-column" data-id="38322512" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-1ec0cde4 elementor-widget elementor-widget-heading" data-id="1ec0cde4" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">Sehat Dengan Sanjjaya</p>		</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-1aae2d87 elementor-column elementor-col-50 elementor-top-column" data-id="1aae2d87" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-77ac6912 elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="77ac6912" data-element_type="widget" data-widget_type="social-icons.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper">
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-oj9fk8m" target="_blank">
-					<span class="elementor-screen-only">Facebook</span>
-											<i class="fa fa-facebook"></i>
-									</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-jyjjyth" target="_blank">
-					<span class="elementor-screen-only">Twitter</span>
-											<i class="fa fa-twitter"></i>
-									</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-google-plus elementor-repeater-item-1ez5p5f" target="_blank">
-					<span class="elementor-screen-only">Google-plus</span>
-											<i class="fa fa-google-plus"></i>
-									</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-envelope elementor-repeater-item-aq66v58" target="_blank">
-					<span class="elementor-screen-only">Envelope</span>
-											<i class="fa fa-envelope"></i>
-									</a>
-					</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-4d3827bd elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="4d3827bd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;arrow&quot;,&quot;shape_divider_bottom_negative&quot;:&quot;yes&quot;}">
-							<div class="elementor-background-overlay"></div>
-						<div class="elementor-shape elementor-shape-bottom" data-negative="true">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 10" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" d="M360 0L350 9.9 340 0 0 0 0 10 700 10 700 0"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-4684e493 elementor-column elementor-col-100 elementor-top-column" data-id="4684e493" data-element_type="column">
-			<div class="elementor-column-wrap">
-					<div class="elementor-widget-wrap">
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-13dc73de elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="13dc73de" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-4013e1b7 elementor-column elementor-col-50 elementor-top-column" data-id="4013e1b7" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-17267b8a elementor-widget elementor-widget-heading" data-id="17267b8a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Tulang Nyeri, Sakit Pinggang ?, Mungkin Ini Membantu Untuk Anda, </h3>		</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-32fda04a elementor-column elementor-col-50 elementor-top-column" data-id="32fda04a" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-6e72224b elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="6e72224b" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-									<i class="fa fa-angle-double-right" aria-hidden="true"></i>
-							</span>
-						<span class="elementor-button-text">Book A Room</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-3b2968b5 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3b2968b5" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-1bdeb5c elementor-column elementor-col-50 elementor-top-column" data-id="1bdeb5c" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-536f847c elementor-widget elementor-widget-heading" data-id="536f847c" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Nyeri Urat Syaraf, Persendian, Tulang Nyeri, Sakit Pinggang, Ginjal, Maag Dll</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-41c00de9 elementor-widget elementor-widget-text-editor" data-id="41c00de9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kolesterol, Tulang Nyeri, Susah Tidur, Sakit Mata, Dan Lain Lain Yang Mungkin Anda Alami</p><p>Pegal Linu, Sakit Persendian ?, Mungkin Ini Bantuan Terbaiknya</p><p>Persendian, Tulang Nyeri, Susah Tidur, Sakit Pinggang, Pegal linu, Urat &amp; lain</p><p>Tulang Nyeri, Susah Tidur, Persendian, Flu Tulang, Maag, Nyeri Urat, Ginjal Dan lainya</p><p>Otot, Sendi, Tulang Nya Sakit?Tulang Nyeri, Sakit Pinggang ?</p></div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-719d06d8 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="719d06d8" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-									<i class="fa fa-angle-double-right" aria-hidden="true"></i>
-							</span>
-						<span class="elementor-button-text">Read More</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-70ec67bd elementor-column elementor-col-50 elementor-top-column" data-id="70ec67bd" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-39d93ecb elementor-widget elementor-widget-image" data-id="39d93ecb" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="800" height="501"   alt="" data-src="https://ok-shopping.online/wp-content/uploads/2021/01/0002.jpg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="800" height="501" src="https://ok-shopping.online/wp-content/uploads/2021/01/0002.jpg" class="attachment-full size-full" alt="" /></noscript>											</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-518c41c0 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="518c41c0" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-272f894d elementor-column elementor-col-50 elementor-top-column" data-id="272f894d" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-43145d99 elementor-widget elementor-widget-image" data-id="43145d99" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="800" height="501"   alt="" data-src="https://ok-shopping.online/wp-content/uploads/2021/01/0001.jpg" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="800" height="501" src="https://ok-shopping.online/wp-content/uploads/2021/01/0001.jpg" class="attachment-full size-full" alt="" /></noscript>											</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-2c88af16 elementor-column elementor-col-50 elementor-top-column" data-id="2c88af16" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-7ca08438 elementor-widget elementor-widget-heading" data-id="7ca08438" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Sanjaya Untuk Kesehatan Anda</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-69186cd6 elementor-widget elementor-widget-text-editor" data-id="69186cd6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>nyeri sendi<br />sakit tulang<br />Tulang Nyeri<br />Penyakit Sendi<br />nyeri pinggang<br />penyakit Urat<br />kapsul sanjaya<br />Pegal Linu<br />Otot Kaku<br />menyembuhkan Otot Kaku<br />Mengobati sakit pinggang<br />Penyakit sakit pinggang<br />Menyembuhkan radang sendi<br />Mengobati radang sendi<br />menyembuhkan Tulang Nyeri<br />mengatasi sakit pinggang</p></div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-4aa57835 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="4aa57835" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-									<i class="fa fa-angle-double-right" aria-hidden="true"></i>
-							</span>
-						<span class="elementor-button-text">Read More</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-8cee542 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="8cee542" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-506f56be elementor-column elementor-col-50 elementor-top-column" data-id="506f56be" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-2730d890 elementor-widget elementor-widget-heading" data-id="2730d890" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Sehat Dengan Sanjaya</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1b85e499 elementor-widget elementor-widget-text-editor" data-id="1b85e499" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>nyeri sendi<br />sakit tulang<br />Tulang Nyeri<br />Penyakit Sendi<br />nyeri pinggang<br />penyakit Urat<br />kapsul sanjaya<br />Pegal Linu<br />Otot Kaku<br />menyembuhkan Otot Kaku<br />Mengobati sakit pinggang<br />Penyakit sakit pinggang<br />Menyembuhkan radang sendi<br />Mengobati radang sendi<br />menyembuhkan Tulang Nyeri<br />mengatasi sakit pinggang</p></div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3d574d5 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="3d574d5" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-									<i class="fa fa-angle-double-right" aria-hidden="true"></i>
-							</span>
-						<span class="elementor-button-text">Read More</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-61b0ffe6 elementor-column elementor-col-50 elementor-top-column" data-id="61b0ffe6" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-30d62c67 elementor-widget elementor-widget-image" data-id="30d62c67" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="750" height="470"   alt="" data-src="https://ok-shopping.online/wp-content/uploads/2021/01/0003.jpg" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="750" height="470" src="https://ok-shopping.online/wp-content/uploads/2021/01/0003.jpg" class="attachment-large size-large" alt="" /></noscript>											</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-						</div>
-			</div>
-		</div>
-			</main>
-</div>
-					</div>
-	</div>
-	</div></div></div><div id="back-to-top"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg></div><script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.6.3' defer='defer'></script>
-<script type='text/javascript'>
-lazySizes.cfg.nativeLoading={setLoadingAttribute:false,disableListeners:{scroll:true}};lazySizes.init();
-</script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1' defer='defer'></script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.13' defer='defer'></script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.10.3' defer='defer'></script>
-<script type='text/javascript'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/ok-shopping.online\/wp-admin\/admin-ajax.php","nonce":"5998c24e87","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/ok-shopping.online\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
-</script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.10.3' defer='defer'></script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' defer='defer'></script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6' defer='defer'></script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' defer='defer'></script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' defer='defer'></script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.13' defer='defer'></script>
-<script type='text/javascript'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.13","urls":{"assets":"https:\/\/ok-shopping.online\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":735,"title":"Sanjaya%20Safe%20%E2%80%93%20Madu%20Maag%20Salam","excerpt":"","featuredImage":false}};
-</script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13' defer='defer'></script>
-<script type='text/javascript' src='https://ok-shopping.online/wp-content/themes/landingpress-wp/assets/js/script.min.js?ver=3.0.0' defer='defer'></script>
 
-<!--[if LandingPress]></body></html><![endif]-->
-<!-- </body></html> -->
+<!DOCTYPE html>
+<html>
+
+<head>
+
+			<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-T7F8RNL');</script>
+		<!-- End Google Tag Manager -->
+	
+	<meta name="google-site-verification" content="O67VYb8L7mIICDjkuAcepnUWHsF4_qLDzOWFHCxrj4A" />
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width">
+	<meta name="description" content="Bawang putih tidak hanya berfungsi sebagai bumbu makanan, melainkan ampuh menjaga kesehatan tubuh jika dikonsumsi dengan cara dipanggang.">
+	<meta name="keywords" content="tekanan darah,kolesterol,kekebalan tubuh,bawang putih,kardiovaskular">
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot-news" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="author" content="">
+	<meta name="language" content="id" />
+	<meta name="geo.country" content="id" />
+	<meta http-equiv="content-language" content="In-Id" />
+	<meta name="geo.placename" content="Indonesia" />
+	<meta http-equiv="Refresh" content="900" />
+	<meta http-equiv="Copyright" content="" />
+	<meta name="thumbnailUrl" content="" />
+	<meta content="" itemprop="url" />
+
+	<meta name="content_id" content="2196437" />
+	<meta name="content_site" content="BolaStylo" />
+	<meta name="content_site_id" content="17" />
+	<meta name="content_section_id" content="478" />
+	<meta name="content_category" content="Bugar" />
+	<meta name="content_subcategory" content="" />
+	<meta name="content_location" content="" />
+	<meta name="content_author" content="Aziz Gancar Widyamukti" />
+	<meta name="content_aid1" content="7654" />
+	<meta name="content_aid2" content="" />
+	<meta name="content_aid3" content="" />
+	<meta name="content_editor" content="Aziz Gancar Widyamukti" />
+	<meta name="content_eid" content="7654" />
+	<meta name="content_lipsus" content="" />
+	<meta name="content_type" content="Standard" />
+	<meta name="content_PublishedDate" content="2020-06-15 09:49:57" />
+	<meta name="content_source" content="nakita" />
+	<meta name="content_tag" content="tekanan darah,kolesterol,kekebalan tubuh,bawang putih,kardiovaskular" />
+	<meta name="content_total_words" content="442" />
+
+			<link rel="amphtml" href="https://bolastylo.bolasport.com/amp/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari" />
+	
+	<!-- S:fb meta -->
+	<meta property="og:type" content="article" />
+	<meta property="og:image" content="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/06/02/4093434404.jpg" />
+	<meta property="og:title" content="Khasiatnya Tak Main-main, Cobalah Konsumsi 6 Siung Bawang Putih Panggang Setiap Hari - Semua Halaman - bolastylo.bolasport.com" />
+	<meta property="og:description" content="Bawang putih tidak hanya berfungsi sebagai bumbu makanan, melainkan ampuh menjaga kesehatan tubuh jika dikonsumsi dengan cara dipanggang.">
+	<meta property="og:url" content="https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari" />
+	<meta property="og:image:alt" content="" />
+	<meta property="fb:app_id" content="313183245408834" />
+	<!-- e:fb meta -->
+
+	<!-- S:tweeter card -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@bolasport" />
+	<meta name="twitter:creator" content="@bolasport">
+	<meta name="twitter:title" content="Khasiatnya Tak Main-main, Cobalah Konsumsi 6 Siung Bawang Putih Panggang Setiap Hari - Semua Halaman - bolastylo.bolasport.com" />
+	<meta name="twitter:description" content="Bawang putih tidak hanya berfungsi sebagai bumbu makanan, melainkan ampuh menjaga kesehatan tubuh jika dikonsumsi dengan cara dipanggang." />
+	<meta name="twitter:image" content="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/06/02/4093434404.jpg" />
+	<!-- E:tweeter card -->
+
+	<title>
+		Khasiatnya Tak Main-main, Cobalah Konsumsi 6 Siung Bawang Putih Panggang Setiap Hari - Semua Halaman - bolastylo.bolasport.com	</title>
+
+	<link rel="canonical" href="https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari" />
+	<link rel="shortcut icon" href="https://asset-a.grid.id/file/bolastylo/img/favicon.ico">
+
+	<link href="https://asset-a.grid.id/file/bolastylo/css/style.css" rel="stylesheet">
+	<link href="https://asset-a.grid.id/file/bolastylo/fonts/icon/icon.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600|Roboto:300,400,500" rel="stylesheet">
+	<!-- sso kompas -->
+	<style>
+		.widgetSso{float:left;margin:12px 20px 12px 0;color:#fff;font-family:Comfortaa,cursive,sans-serif;font-size:14px}
+		.widgetSso~.header__search .header__search--icon{left:30%}
+		.widgetSso .sso__link:hover{color:#333}.widgetSso .sso__hr{margin:0 2px;position:relative;top:-1px}
+	</style>
+	<!-- sso kompas -->
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "WebSite",
+			"url": "https://bolastylo.bolasport.com/",
+			"potentialAction": {
+				"@type": "SearchAction",
+				"target": "https://bolastylo.bolasport.com/search?q={search_term_string}",
+				"query-input": "required name=search_term_string"
+			}
+		}
+	</script>
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"url": "https://bolastylo.bolasport.com/",
+			"logo": "https://asset-a.grid.id/file/bolastylo/img/main-logo.png",
+			"sameAs": [
+				"https://www.facebook.com/BolaSportcom/",
+				"https://twitter.com/BolaSportcom"
+			]
+		}
+	</script>
+
+	
+			<script type="application/ld+json">
+			{
+			  "@context": "https://schema.org",
+			  "@type": "NewsArticle",
+			  "mainEntityOfPage": {
+			    "@type": "WebPage",
+			    "@id": "https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari#"
+			  },
+			  "headline": "Khasiatnya Tak Main-main, Cobalah Konsumsi 6 Siung Bawang Putih Panggang Setiap Hari",
+			  "image": {
+			    "@type": "ImageObject",
+			    "url": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/06/02/4093434404.jpg",
+			    "height": 500,
+			    "width": 750
+			  },
+			  "datePublished": "2020-06-15T02:49:57+00:00",
+			  "dateModified": "2020-06-15T02:49:57+00:00",
+			  "author": {
+			    "@type": "Person",
+			    "name": "Aziz Gancar Widyamukti"
+			  },
+			   "publisher": {
+			    "@type": "Organization",
+			    "name": "https://asset-a.grid.id/file/bolastylo/img/main-logo.png",
+			    "logo": {
+			      "@type": "ImageObject",
+			      "url": "https://asset-a.grid.id/file/bolastylo/img/main-logo.png",
+			      "width": 255,
+			      "height": 55
+			    }
+			  },
+			  "description": "Bawang putih tidak hanya berfungsi sebagai bumbu makanan, melainkan ampuh menjaga kesehatan tubuh jika dikonsumsi dengan cara dipanggang."
+			}
+			</script>
+	<!-- Start: GPT Async -->
+<script async src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script async src="https://ads.gridtechno.com/PREBIDJS.JS/updapr/prebidbolasport8april.js"></script>
+<script type='text/javascript'>
+    var PREBID_TIMEOUT=1000;var FAILSAFE_TIMEOUT=3000;var HB_TIMEOUT=2000;var adUnits=[{code:"div-gpt-ad-head-banner",mediaTypes:{banner:{sizes:[[970,90],[970,250]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"pubmatic",params:{publisherId:"156479",adSlot:"Bolasport_970x90_1@970x90"}},{bidder:"pubmatic",params:{publisherId:"156479",adSlot:"Bolasport_970x250_1@970x250"}},{bidder:"pubmatic",params:{publisherId:"156479",adSlot:"Bolasport_728x90_1@728x90"}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"appier",params:{hzid:"Wt9imzOp"}},{bidder:"adkernel",params:{zoneId:"89226",host:"cpm.mobuppsrtb.com"}},{bidder:"ix",params:{siteId:"450354",size:[970,250]}},{bidder:"ix",params:{siteId:"450354",size:[970,90]}},{bidder:'teads',params:{placementId:120293,pageId:110634}}]},{code:'div-gpt-ad-MR3',mediaTypes:{video:{context:'outstream',playerSize:[300,250]}},bids:[{bidder:'spotx',params:{channel_id:280686,ad_unit:'outstream',outstream_options:{slot:'div-gpt-ad-MR3',custom_override:{channel_id:"280686",content_width:300,content_height:250,autoplay:1,ad_volume:0,ad_unit:"incontent",sticky:1,sticky_y_position:"bottom",sticky_x_position:"left",ad_skippable:1,ad_skip_delay:5,sticky_y_offset:100,sticky_width:300,sticky_height:250}}}}]},{code:"div-gpt-ad-MR3",mediaTypes:{banner:{sizes:[[300,250]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"pubmatic",params:{publisherId:"156479",adSlot:"Bolasport_300x250_2@300x250"}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"appier",params:{hzid:"Wt9iHIOp"}},{bidder:"adkernel",params:{zoneId:"89226",host:"cpm.mobuppsrtb.com"}},{bidder:"ix",params:{siteId:"450354",size:[300,250]}},{bidder:'teads',params:{placementId:120293,pageId:110634}}]},{code:"div-gpt-ad-giant",mediaTypes:{banner:{sizes:[[300,600]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"pubmatic",params:{publisherId:"156479",adSlot:"Bolasport_300x600_1@300x600"}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"appier",params:{hzid:"Wt9iHFOp"}},{bidder:"adkernel",params:{zoneId:"89226",host:"cpm.mobuppsrtb.com"}},{bidder:"ix",params:{siteId:"450354",size:[300,600]}},{bidder:'teads',params:{placementId:120293,pageId:110634}},{bidder:"brightcom",params:{publisherId:20104}}]},{code:"div-gpt-ad-giant2",mediaTypes:{banner:{sizes:[[300,250],[300,600]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"adkernel",params:{zoneId:"89226",host:"cpm.mobuppsrtb.com"}},{bidder:"ix",params:{siteId:"450354",size:[300,250]}},{bidder:"ix",params:{siteId:"450354",size:[300,600]}},{bidder:'teads',params:{placementId:120293,pageId:110634}}]},{code:"div-gpt-ad-skin-left",mediaTypes:{banner:{sizes:[[100,550],[100,650],[120,600]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:"450354",size:[100,550]}},{bidder:"ix",params:{siteId:"450354",size:[100,650]}},{bidder:"ix",params:{siteId:"450354",size:[120,600]}},{bidder:'teads',params:{placementId:120293,pageId:110634}}]},{code:"div-gpt-ad-skin-right",mediaTypes:{banner:{sizes:[[100,550],[100,650],[120,600]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:"450354",size:[100,550]}},{bidder:"ix",params:{siteId:"450354",size:[100,650]}},{bidder:"ix",params:{siteId:"450354",size:[120,600]}},{bidder:'teads',params:{placementId:120293,pageId:110634}}]},{code:"div-gpt-ad-bottom-frame",mediaTypes:{banner:{sizes:[[468,60],[1100,50]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"ix",params:{siteId:"450354",size:[468,60]}},{bidder:"ix",params:{siteId:"450354",size:[1100,50]}},{bidder:'teads',params:{placementId:120293,pageId:110634}}]},{code:'div-gpt-ad-below-photo',mediaTypes:{banner:{sizes:[[728,90],[468,60]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:'ix',params:{siteId:'450354',size:[728,90]}},{bidder:'ix',params:{siteId:'450354',size:[468,60]}}]},{code:"div-gpt-ad-skyscrapper",mediaTypes:{banner:{sizes:[[160,600],[120,600]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"pubmatic",params:{publisherId:"156479",adSlot:"Bolasport_120x600_1@120x600"}},{bidder:"pubmatic",params:{publisherId:"156479",adSlot:"Bolasport_160x600_1@160x600"}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"appier",params:{hzid:"Wt9im9Op"}},{bidder:"ix",params:{siteId:"450354",size:[160,600]}},{bidder:"ix",params:{siteId:"450354",size:[120,600]}},{bidder:'teads',params:{placementId:120293,pageId:110634}}]},{code:"div-Inside-MediumRectangle",mediaTypes:{banner:{sizes:[[300,250],[300,100],[1,1],[360,180]]}},bids:[{bidder:"appnexus",params:{placementId:12858269}},{bidder:"pubmatic",params:{publisherId:"156479",adSlot:"Bolasport_300x250_1@300x250"}},{bidder:"criteo",params:{networkId:4168}},{bidder:"rtbhouse",params:{region:"prebid-asia",publisherId:"02IfFluukFr1aATc2Zmi"}},{bidder:"openx",params:{unit:"540800965",delDomain:"kompascybermedia-d.openx.net"}},{bidder:"appier",params:{hzid:"Wt9iHIOp"}},{bidder:"ix",params:{siteId:"450354",size:[300,250]}},{bidder:"ix",params:{siteId:"450354",size:[300,100]}},{bidder:"ix",params:{siteId:"450354",size:[1,1]}},{bidder:"ix",params:{siteId:"450354",size:[360,180]}},{bidder:'teads',params:{placementId:120293,pageId:110634}}]}],gptadslots=[],googletag=googletag||{};googletag.cmd=googletag.cmd||[],googletag.cmd.push(function(){googletag.pubads().disableInitialLoad()});var pbjs=pbjs||{};function initAdserver(){pbjs.initAdserverSet||(pbjs.initAdserverSet=!0,googletag.cmd.push(function(){pbjs.que.push(function(){pbjs.setTargetingForGPTAsync(),googletag.pubads().refresh()})}))}
+pbjs.que=pbjs.que||[],pbjs.que.push(function(){pbjs.setConfig({userSync:{userIds:[{name:"unifiedId",params:{url:"//match.adsrvr.org/track/rid?ttd_pid=x67z0nb&fmt=json"},storage:{type:"cookie",name:"pbjs-unifiedid",expires:60}}],syncDelay:3e3,filterSettings:{iframe:{bidders:"*",filter:"include"}}}}),pbjs.addAdUnits(adUnits),pbjs.requestBids({bidsBackHandler:initAdserver,timeout:PREBID_TIMEOUT})}),setTimeout(function(){initAdserver()},FAILSAFE_TIMEOUT)
+</script>
+<!-- End: GPT Async -->
+	<script type="text/javascript">
+    
+    googletag.cmd.push(function() { 
+
+        /****/
+//Top Banner
+googletag.defineSlot('/31800665/BOLASTYLO', [[970, 90],[970, 250]], 'div-gpt-ad-head-banner').setTargeting('pos', ['Top_1']).addService(googletag.pubads());
+/****//****/
+//Giant Banner
+googletag.defineSlot('/31800665/BOLASTYLO', [[300, 600]], 'div-gpt-ad-giant').setTargeting('Pos', ['Giant']).addService(googletag.pubads());
+/****//****/ 
+//Giant banner 2
+googletag.defineSlot('/31800665/BOLASTYLO', [[300, 250], [300, 600]], 'div-gpt-ad-giant2').setTargeting('Pos', ['Giant2']).addService(googletag.pubads());
+/****//****/
+//MR3
+googletag.defineSlot('/31800665/BOLASTYLO', [[300, 250]], 'div-gpt-ad-MR3').setTargeting('Pos', ['MR3']).addService(googletag.pubads());
+/****//****/
+// Skinad Trigger
+var slotSkinTrigger = googletag.defineOutOfPageSlot('/31800665/BOLASTYLO', 'div-gpt-ad-skinad-trigger').setTargeting('trigger', ['Skin_Trigger']).addService(googletag.pubads());
+/****/      
+// Prepare to call Left Skinad
+var slotSkinLeft = googletag.defineSlot('/31800665/BOLASTYLO', [[100,550],[100,650],[120,600]], 'div-gpt-ad-skin-left').setTargeting('pos', ['Skin_Left']); 
+/****/    
+// Prepare to call Right Skinad
+var slotSkinRight = googletag.defineSlot('/31800665/BOLASTYLO', [[100,550],[100,650],[120,600]], 'div-gpt-ad-skin-right').setTargeting('pos', ['Skin_Right']);   
+/****/    
+var skinadStatus = false;  
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+        if(slotSkinTrigger === event.slot){
+            var dfp_lineItemId = event.lineItemId;
+            var dfp_creativeId = event.creativeId;
+            
+            if(dfp_lineItemId != null && dfp_creativeId != null) {
+               skinadStatus = true;
+                // Activate the Left Skinad
+                slotSkinLeft.addService(googletag.pubads());
+                googletag.display('div-gpt-ad-skin-left');
+                googletag.pubads().refresh([slotSkinLeft]);
+                
+                // Activate the Right Skinad
+                slotSkinRight.addService(googletag.pubads());
+                googletag.display('div-gpt-ad-skin-right');
+                googletag.pubads().refresh([slotSkinRight]);
+            }
+            
+            if(window.location.search == "?skinad_status"){
+                console.log("Checked Url = "+window.location.search);
+                console.log("Skinad Status : "+skinadStatus); 
+                console.log("Skinad Trigger : "+dfp_lineItemId+"&"+dfp_creativeId); 
+            }            
+        }
+    });/****/
+//Bottom Frame
+googletag.defineSlot('/31800665/BOLASTYLO', [[468, 60], [1100, 50]], 'div-gpt-ad-bottom-frame').setTargeting('pos', ['Horizontal_Ad']).addService(googletag.pubads()); 
+/****//****/
+//Popup
+googletag.defineOutOfPageSlot('/31800665/BOLASTYLO', 'div-gpt-ad-popup').setTargeting('pos', ['Popup']).addService(googletag.pubads());
+/****/document.addEventListener("DOMContentLoaded", function(event){
+				var cekclassread = document.getElementsByClassName("read__keyword")[0];
+				if(cekclassread != undefined){
+					var content = document.getElementsByClassName("read__keyword")[0].innerText;
+					var gpt_safe = content.match(/\b(ak47|al jazeera|al qaeda|allah|Assad|bahan kimia|bencana|boikot|corona|covid-19|fatal|ganti rugi|gejala|gugur|hoax|hukuman|jokowi|kecelakaan|kejadian|keras|komplain|Kondom|kontroversi|korban|kriminal|palsu|pembunuhan|pemerkosaan|penyakit|peristiwa|pidana|polisi|porno|prabowo|racun|rasis|rasisme|seks|tersangka|viral|virus|porno|seks|lesbian|gay|sesama jenis|homoseks|homoseksual|biseksual|transgender|pemerasan|pemeras)\b/i);
+
+						if(gpt_safe){
+							safe = 'no';
+						}
+						else{
+							safe = 'yes';
+						}
+
+					var keyword1 = content.match(/\b(virus|corona|pneumonia|paru-paru|karantina|demam|wabah|sesak napas|Wuhan|sesak dada|rs darurat|epidemic|pandemic|status darurat|SARS|corona virus|jangkit|covid|batuk|covid-19|MERS|penyebaran|penularan|patogen|CoV|Viruses|Korona|nCOV|isolasi diri|masker|terinfeksi|infeksi|mati|kematian|positif corona|lockdown|orang dalam pemantauan (ODP)|pasien dalam pengawasan (PDP)|suspect|sakit tenggorokan|sampoerna|rungkut|pabrik|factory|porno|seks|lesbian|gay|sesama jenis|homoseks|homoseksual|biseksual|transgender|pemerasan|pemeras)\b/i);
+					if (keyword1) {
+						keyword_targetting1 = 'yes';} else {
+						keyword_targetting1 = 'no';}
+
+				}else{
+					safe = 'yes';
+					keyword_targetting1 = 'no';
+				}
+				console.log('safe_branding =' + safe);
+				googletag.pubads().setTargeting('safe_branding', safe);
+
+				console.log('keyword_targetting1 =' + keyword_targetting1);
+				googletag.pubads().setTargeting('keyword_targetting1', keyword_targetting1);
+
+			});
+
+try{
+                // Retrieving local storage
+                var ls = window.localStorage;
+				
+				var lr = ls.getItem("_jxitr");
+				if (lr && lr.length > 2){
+					try{
+						googletag.pubads().setTargeting('jx_audience_interest', JSON.parse(lr).join().split(','));
+					}catch {}
+				}
+				
+				var li = ls.getItem("_jxitd");
+				if (li && li.length > 2){
+					try{
+						googletag.pubads().setTargeting('jx_audience_intend', JSON.parse(li).join().split(','));
+					}catch {}
+				}
+
+            }catch(e){
+                  //console.log("Localstorage not accessible or any other error: " + e.message);
+            }/****/
+//Skyscrapper
+googletag.defineSlot('/31800665/BOLASTYLO', [[160, 600], [120, 600]], 'div-gpt-ad-skyscrapper').setTargeting('Pos', ['Skyscraper']).addService(googletag.pubads());
+/****//****/
+//Inside Medium Rectangle
+googletag.defineSlot('/31800665/BOLASTYLO', [[300, 250],[300, 100],[1, 1],[360, 180]], 'div-Inside-MediumRectangle').setTargeting('pos', ['InsideMediumRectangle']).addService(googletag.pubads());
+/****//****/
+//Native Banner
+googletag.defineOutOfPageSlot('/31800665/BOLASTYLO', 'div-gpt-ad-native-banner').setTargeting('pos',['native_banner_article']).addService(googletag.pubads());
+/****//****/		
+//Below Article - Ad Manager needed
+/****/        
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();         
+        
+    });
+
+   
+</script>
+
+
+
+</head>
+
+<body>
+					<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7F8RNL"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<!-- End Google Tag Manager (noscript) -->
+				<div class="root">
+
+		<header class="navyblock navyblock1 header--block clearfix">
+	<div class="container">
+		<div class="header header--fixed clearfix">
+			<div class="widgetSso" id="sso" style="display:none">
+				<a class="sso__link" id="txt_register" href="https://account.bolasport.com/register/Ym9sYXNwb3J0">Register | </a>
+				<a class="sso__link" id="txt_signin" href="https://account.bolasport.com/login/Ym9sYXNwb3J0/aHR0cHM6Ly9ib2xhc3R5bG8uYm9sYXNwb3J0LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7F0bnlhLgjH2m5c8emE66pjdExmgep47BAdKTrCJ75zdW1zaS02LgjH2m5c8emE66pjdExmgep47BAdKTrCJ7FuZy1zZXRpYXAtaGFyaQ==">Login</a>
+				<div id="sso_g_signin">
+				</div>
+			</div>
+
+			<div class="header__search">
+					<input type="text" placeholder="Search" id="search_input">
+					<a href="" class="header__search--icon logo__social-link ico-cari"></a>
+			</div>
+			<div class="header__share">
+				<ul class="header__share--wrapper">
+					<li class="header__share--item">
+						<a href="https://www.facebook.com/BolaSportcom/" class="logo__social-link logo__social-fb ico-fb">
+                        </a>
+					</li>
+					<li class="header__share--item">
+						<a href="https://twitter.com/BolaSportcom" class="logo__social-link logo__social-tw ico-tw">
+                        </a>
+					</li>
+					<li class="header__share--item">
+						<a href="https://www.instagram.com/bolasportcom/" class="logo__social-link logo__social-in ico-ig">
+                        </a>
+					</li>
+
+					<li class="header__share--item">
+						<a href="https://www.youtube.com/channel/UC1y9qu7Hj9XbiYuJfF8DsWw/featured" class="logo__social-link logo__social-yt ico-youtube">
+                        </a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+<div class="header__outer"></div>
+<div class="header__wrapper clearfix">
+	<div class="container logo">
+		<a href="https://bolastylo.bolasport.com/" class="logo__item logo__item--big">
+            <img src="https://asset-a.grid.id/file/bolastylo/img/main-logo.png" alt="">
+        </a>
+		<a href="https://bolastylo.bolasport.com/" class="logo__item logo__item--small">
+            <img src="https://asset-a.grid.id/file/bolastylo/img/main-logo-white.png" alt="">
+        </a>
+	</div>
+	<!-- menu -->
+	<div class="container mainmenu">
+    <div class="table">
+        <ul class="mainmenu__list">
+        	<li class="mainmenu__item">
+			    <a href="https://bolastylo.bolasport.com/" class="mainmenu__link logo__circle">
+			    	<img src="https://asset-a.grid.id/file/bolastylo/img/stylo-grid.png">
+			    </a>
+			</li>
+            <li class="mainmenu__item ">        
+            
+        <a href="https://bolastylo.bolasport.com/hotnow" class="mainmenu__link">
+            HotNow        </a>
+    
+    </li>
+<li class="mainmenu__item ">        
+            
+        <a href="https://bolastylo.bolasport.com/style" class="mainmenu__link">
+            Style        </a>
+    
+    </li>
+<li class="mainmenu__item ">        
+            
+        <a href="https://bolastylo.bolasport.com/bugar" class="mainmenu__link">
+            Bugar        </a>
+    
+    </li>
+<li class="mainmenu__item ">        
+            
+        <a href="https://bolastylo.bolasport.com/wags" class="mainmenu__link">
+            WAGs        </a>
+    
+    </li>
+        </ul>
+    </div>
+    </div>
+</div>
+
+		<div class="ads__top-big clearfix">
+    <!-- DFP Top Banner -->
+<div id='div-gpt-ad-head-banner'>
+<script>
+//cX.callQueue.push(['invoke', function() {
+     googletag.cmd.push(function() { googletag.display('div-gpt-ad-head-banner'); });
+//}]);
+</script>
+</div>
+<!-- End DFP Top Banner --></div>
+
+		<div class="container clearfix">
+	<div class="nkt__stick js-nkt-stick">
+    <div class="nkt__stick--left">
+        <!-- DFP Skinad Trigger -->
+<div id='div-gpt-ad-skinad-trigger' style='display: none; visibility: hidden; position: absolute; height: 0px; width: 0px; left:-110px; top:218px;'>
+       <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-skinad-trigger'); });
+       </script>
+</div>
+<!-- End DFP Skinad Trigger -->
+
+<!-- DFP Skin Left -->
+<div id='div-gpt-ad-skin-left'>
+	<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-skin-left'); });
+	</script>
+</div>
+<!-- End DFP Skin Left -->    </div>
+    <div class="nkt__stick--right">
+        <!-- DFP Skin Right -->
+<div id='div-gpt-ad-skin-right'>
+	<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-skin-right'); });
+	</script>
+</div>
+<!-- End DFP Skin Right-->    </div>
+</div>
+
+	<div class="section__left mt2 js-gallery">
+		<div class="read">
+			<ul class="breadcrumb__wrap">
+    <li class="breadcrumb__item"><a class="pink" href="https://bolastylo.bolasport.com/">Home</a></li>
+    <li class="breadcrumb__item"><a class="pink" href="https://bolastylo.bolasport.com/bugar">BUGAR</a></li>
+</ul>
+
+			<!-- (naads) -->
+			<!-- (advertorial) -->
+
+			<div class="read__title">
+				<h1 class="read__title--text pink">Khasiatnya Tak Main-main, Cobalah Konsumsi 6 Siung Bawang Putih Panggang Setiap Hari</h1>
+			</div>
+			<div class="clearfix">
+				<div class="read__boxauthor">
+					<a href="https://bolastylo.bolasport.com/penulis/7654/aziz-gancar-widyamukti" class="read__author"><span class="read__author pink">Aziz Gancar Widyamukti</span></a> - 					<span class="read__time pink">Senin, 15 Juni 2020 | 09:49 WIB</span>
+				</div>
+				<div class="social__share read__share clearfix">
+    <ul class="floating-share">
+        <li class="bg-fb">
+            <a href="javascript:void(0)" onclick="fb_share('Khasiatnya Tak Main-main, Cobalah Konsumsi 6 Siung Bawang Putih Panggang Setiap Hari','https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari')"><span class="ico-share ico-fb ico-bg"></span></a>
+        </li>
+        <li class="bg-tw">
+            <a href="javascript:void(0)" onclick="tweet_share('Khasiatnya Tak Main-main, Cobalah Konsumsi 6 Siung Bawang Putih Panggang Setiap Hari https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari')"><span class="ico-share ico-tw ico-bg"></span></a>
+        </li>
+        <li class="bg-wa">
+            <a href="whatsapp://send?text=Khasiatnya Tak Main-main, Cobalah Konsumsi 6 Siung Bawang Putih Panggang Setiap Hari https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari" data-href="https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari"><span class="ico-share ico-wa ico-bg"></span></a>
+        </li>
+        <li class="bg-line">
+            <a href="https://line.me/R/msg/text/?Khasiatnya Tak Main-main, Cobalah Konsumsi 6 Siung Bawang Putih Panggang Setiap Hari%0D%0Ahttps://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari"><span class="ico-share ico-line ico-bg"></span></a>
+        </li>
+    </ul>
+</div>
+			</div>
+			<div class="photo photo--main">
+	<div class="photo__item">
+		<img src="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/06/02/4093434404.jpg" alt="Cobalah rutin mengonsumsi 6 siung bawang putih panggah setiap hari, khasiatnya tak main-main.">
+		<div class="photo__author">www.freepik.com</div>
+	</div>
+	<div class="photo__caption pink">Cobalah rutin mengonsumsi 6 siung bawang putih panggah setiap hari, khasiatnya tak main-main.</div>
+</div>
+			<div class="read__left">
+				<div class="ads__skyscraper js-skyscraper">
+					<div class="kcm kcm__tower clearfix js-tower-sticky">
+    <!-- DFP Skyscrapper -->
+<div id='div-gpt-ad-skyscrapper'>
+     <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-skyscrapper'); });
+     </script>
+</div>
+<!-- End DFP Skyscrapper -->
+
+<!-- s:pickwords -->                  
+<link rel="stylesheet" href="https://imgx.gridoto.com/file/2017/gridoto/css/Newpickwords.css">
+<script src="https://ads.grid.id/JS/pickword/pickwordsgriddesk.js"></script>
+<!-- e:pickwords --></div>
+				</div>
+			</div>
+			<div class="read__right read__article read__keyword">
+				<p>  </p> <p><strong>BolaStylo.com - <a href="https://bolastylo.bolasport.com/tag/bawang-putih">Bawang putih</a> tidak hanya berfungsi sebagai bumbu makanan, melainkan ampuh menjaga kesehatan tubuh jika dikonsumsi dengan cara dipanggang.</strong></p> <p><a href="https://bolastylo.bolasport.com/tag/bawang-putih">Bawang putih</a> tentunya menjadi salah satu bumbu dapur yang wajib selalu ada di rumah.</p> <p>Sebab, <a href="https://bolastylo.bolasport.com/tag/bawang-putih">bawang putih</a> kerap digunakan untuk membuat masakan menjadi semakin enak dan lezat.</p> <p>Selain berguna sebagai penyedap masakan, <a href="https://bolastylo.bolasport.com/tag/bawang-putih">bawang putih</a> juga punya banyak manfaat untuk kesehatan.</p> <p><strong>Baca Juga: <a href="https://bolastylo.bolasport.com/read/172193309/jangan-dibuang-kulit-bawang-merah-turunkan-risiko-penyakit-mematikan" class="inner-link" target="_blank">Jangan Dibuang! Kulit Bawang Merah Turunkan Risiko Penyakit Mematikan</a></strong></p> <p>Salah satu jenis umbi-umbian yang memiliki nama latin <em>Allium Sativum</em> ini dipercaya mampu mengendalikan tekanan darah tinggi dan rendah, kolesterol tinggi, penyakit jantung koroner, serangan jantung dan penurunan aliran darah.</p> <p>Segudang manfaat tersebut bisa Anda rasakan jika mengonsumsi bawang putih secara mentah.</p> <p>Namun, jangan salah, bawang putih juga masih memiliki manfaat yang baik bagi kesehatan tubuh meski dikonsumsi dengan cara lain.</p> <p><strong>Baca Juga: <a href="https://bolastylo.bolasport.com/read/172190496/kenali-6-khasiat-bawang-putih-dari-obat-anti-kanker-hingga-penurun-kolesterol">Kenali 6 Khasiat Bawang Putih, dari Obat Anti Kanker hingga Penurun Kolesterol</a></strong></p> <p>Selain dimakan mentah, Anda juga bisa mengonsumsi bawang putih dengan dipanggang.</p>  <p>Para ahli menyatakan bahwa jika kita makan enam siung bawang putih panggang setiap hari hasilnya akan menakjubkan.</p> <p>Setelah makan enam siung bawang putih panggang sehari, kita bisa melihat perubahan pada tubuh dalam waktu kurang lebih 24 jam atau satu hari.</p> <p><strong>Baca Juga: <a href="https://bolastylo.bolasport.com/read/172195105/bekhasiat-air-rebusan-kulit-petai-bisa-jadi-obat-alami-penyakit-mematikan-di-dunia">Bekhasiat, Air Rebusan Kulit Petai Bisa Jadi Obat Alami Penyakit Mematikan di Dunia</a></strong></p> <p>Pada 2 hingga 4 jam pertama, bawang putih akan melawan radikal bebas dan sel kanker yang ada.</p><!-- DFP Inside MediumRectangle -->
+<div id="div-Inside-MediumRectangle" style="text-align: center; margin-bottom: 20px;">
+<script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-Inside-MediumRectangle'); });
+</script>
+</div>
+<!-- End DFP Inside MediumRectangle --> <p>Setelah itu, cairan berlebih dan lemak tubuh yang tersimpan dikeluarkan karena metabolisme tubuh. Kita mulai merasakan manfaat yang diaktivasi oleh bawang putih dalam 4-6 jam.</p> <p>Dalam 6-10 jam setelah mengonsumsi bawang putih panggang, akan terjadi proses melawan bakteri hingga pelindungan tubuh kita dari oksidasi karena nutrisi telah memainkan peran utama pada tingkat sel.</p> <p><strong>Baca Juga: <a href="https://bolastylo.bolasport.com/read/172195203/punya-body-goals-georgina-rodriguez-justu-minder-latihan-bareng-ronaldo">Punya Body Goals, Georgina Rodriguez Justu Minder Latihan Bareng Ronaldo</a></strong></p> <p><strong>Adapun setelah 10-24 jam kemudian, tubuh kita memulai proses pembersihan dalam dan memiliki hasil sebagai berikut:</strong></p> <p>1. Mengatur kadar kolesterol</p> <p>2. Melindungi organisme dari masalah kardiovaskular</p>  <p>3. Menurunkan dan memperbaiki tingkat tekanan darah</p> <p>4. Memperkuat sistem kekebalan tubuh</p> <p>5. Mencegah logam berat memasuki tubuh</p> <p>6. Meningkatkan kekuatan tulang</p> <p>7. Menghilangkan kelelahan</p> <p>8. Meningkatkan Performa Atletik</p> <blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/B16L_15DRkv/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12"> <div style="padding: 16px;"> <div style="display: flex; flex-direction: row; align-items: center;">&nbsp;</div> <div style="padding: 19% 0;">&nbsp;</div> <div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;">&nbsp;</div> <div style="padding-top: 8px;"> <div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div> </div> <div style="padding: 12.5% 0;">&nbsp;</div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">&nbsp;</div> <p style="margin: 8px 0 0 0; padding: 0 4px;"><a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://www.instagram.com/p/B16L_15DRkv/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener noreferrer">Ingin beriklan efektif dengan harga solutif? Segera kunjungi website bit.ly/gridpaidpromote dan gunakan&rdquo;kode kupon&rdquo; untuk mendapatkan harga spesial beriklan di ragam produk Instagram Grid Network. Caranya sangat mudah: 1. Kunjungi website bit.ly/gridpaidpromote 2. Pilih akun IG untuk Paid Promote 3. Lengkapi data-data yang dibutuhkan 4. Klik "lanjut", lalu pilih "tanpa login" 5. Lalu klik "gunakan kupon" dan masukann "kode kupon" 6. Klik "selesaikan pesanan" So? Tunggu apa lagi? Ayo segera beriklan di Grid Network! Periode promo 1 Agustus &ndash; 30 September 2019. Syarat dan ketentuan berlaku.</a></p> <p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;">A post shared by <a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px;" href="https://www.instagram.com/bolastylo/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener noreferrer"> BolaStylo</a> (@bolastylo) on <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2019-09-02T12:40:55+00:00">Sep 2, 2019 at 5:40am PDT</time></p> </div> </blockquote></p>
+				
+				<!-- (ads.feedads) -->
+				<!-- (ads.outstream) -->
+
+				<div class="pagination read">
+	<ul class="pagination__number">
+		<li class=""><a href="https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari" class="pagination__inline">1</a><span class="pagination__slash pagination__inline">/</span></li><li class=""><a href="?page=2" class="pagination__inline">2</a><span class="pagination__slash pagination__inline">/</span></li><li class=""><a href="?page=3" class="pagination__inline">3</a><span class="pagination__slash pagination__inline">/</span></li>		<li class="active pull-right"><a class="pagination__inline" href="https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari?page=all" style="">Show all</a></li>
+	</ul>
+</div>
+
+				<div class="tags clearfix" data-tag="Tag :">
+    <ul>
+        <li><a href="https://bolastylo.bolasport.com/tag/tekanan-darah?url=https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari"><h3 class="tags__title">Tekanan darah</h3></a></li><li><a href="https://bolastylo.bolasport.com/tag/kolesterol?url=https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari"><h3 class="tags__title">Kolesterol</h3></a></li><li><a href="https://bolastylo.bolasport.com/tag/kekebalan-tubuh?url=https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari"><h3 class="tags__title">Kekebalan tubuh</h3></a></li><li><a href="https://bolastylo.bolasport.com/tag/bawang-putih?url=https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari"><h3 class="tags__title">Bawang putih</h3></a></li><li><a href="https://bolastylo.bolasport.com/tag/kardiovaskular?url=https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari"><h3 class="tags__title">Kardiovaskular</h3></a></li>    </ul>
+</div>
+
+				<div class="artikel_credits">
+	<table>
+		<tbody>
+							<tr>
+					<td>Source</td>
+					<td>:</td>
+					<td>nakita</td>
+				</tr>
+						<tr>
+				<td>Penulis</td>
+				<td>:</td>
+				<td><a href="javascript:void(0)"><strong class="pink">Aziz Gancar Widyamukti</strong></a></td>
+			</tr>
+			<tr>
+				<td>Editor</td>
+				<td>:</td>
+				<td><a href="https://bolastylo.bolasport.com/penulis/7654/aziz-gancar-widyamukti"><strong class="pink">Aziz Gancar Widyamukti</strong></a></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<!-- Outbrain -->        
+<h2 class="title__default" style="margin-bottom: 25px; margin-top: 45px;"><span>PROMOTED CONTENT</span></h2> 
+    <div id="outbrain-container" style="display: block; position: relative; border-top: 1px solid #e3e3e3; border-bottom: 1px solid #e3e3e3; padding-bottom: 0; padding-top: 20px; margin-bottom: 0px;">
+        <div class="OUTBRAIN" data-widget-id="AR_1" data-ob-template="Grid.id"></div> 
+    </div>        
+    <script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+    <style>
+        div.ob-widget-header{  display: none; } 
+        span.ob-unit.ob-rec-text{ margin-top: 7px; font-size: 15.4px !important; color: #000 !important; font-weight: 600 !important;}
+        span.ob-unit.ob-rec-source{ padding-top: 6px !important; }
+        div.ob_what{ padding: 10px 0 !important;}
+    </style>
+    <!-- Endof Outbrain -->
+			</div>
+		</div>
+
+		<div class="read__right">
+			<h2 class="title__default">
+		        <span>
+		            VIDEO PILIHAN
+		        </span>
+		    </h2>
+			<!-- BolaStylo IVS Full Player -->
+			<div id="ivsplayer01-container">
+			<ivs-player
+				id="bolasport"
+				data-ivs-key="49a8757dfe4edbccdc25df70171b5cce"
+				data-ivs-spid="3000966"
+				data-ivs-wid="322f5ad5-6019">
+			</ivs-player>
+			</div>
+			<script src="https://player.ivideosmart.com/ivsplayer/v4/dist/js/loader.js"></script>
+		
+		    <!-- DFP Native Banner -->
+<div id='div-gpt-ad-native-banner'>
+<script>
+             googletag.cmd.push(function() { googletag.display('div-gpt-ad-native-banner'); });
+</script>
+</div>
+<!-- End DFP Native Banner -->
+			<!-- (iklaniframe) -->
+<div class="comment">
+    <h2 class="title__default">
+        <span>
+            KOMENTAR
+        </span>
+    </h2>
+    <div class="commentar__item">
+        <div class="fb-comments" data-href="https://bolastylo.bolasport.com/read/172196437/khasiatnya-tak-main-main-cobalah-konsumsi-6-siung-bawang-putih-panggang-setiap-hari" data-width="100%" data-numposts="5"></div>
+    </div>
+</div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=383957718684488";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+			<div class="news-related mt4">
+    <h2 class="title__default">
+        <span>
+            ARTIKEL TERKAIT
+        </span>
+    </h2>
+    <ul class="news-related__list">
+        <li class="news-related__item">
+    <a href="https://bolastylo.bolasport.com/read/172196182/penerus-mike-tyson-pamer-skill-tinju-kehebatannya-tak-kalah-dari-si-leher-beton" class="news-related__link">
+        <h3 class="news-related__category">
+                    </h3>
+        <h3 class="news-related__title">
+            Penerus Mike Tyson Pamer Skill Tinju, Kehebatannya Tak Kalah dari Si Leher Beton        </h3>
+    </a>
+</li>
+<li class="news-related__item">
+    <a href="https://bolastylo.bolasport.com/read/172196202/pensiun-dari-ufc-conor-mcgregor-dapat-nasihat-dari-khabib-nurmagomedov" class="news-related__link">
+        <h3 class="news-related__category">
+                    </h3>
+        <h3 class="news-related__title">
+            Pensiun dari UFC, Conor McGregor Dapat Nasihat dari Khabib Nurmagomedov        </h3>
+    </a>
+</li>
+<li class="news-related__item">
+    <a href="https://bolastylo.bolasport.com/read/172196255/biar-cristiano-ronaldo-makin-lengket-georgina-akui-gemar-pakai-busana-minim" class="news-related__link">
+        <h3 class="news-related__category">
+                    </h3>
+        <h3 class="news-related__title">
+            Biar Cristiano Ronaldo Makin Lengket, Georgina Akui Gemar Pakai Busana Minim        </h3>
+    </a>
+</li>
+<li class="news-related__item">
+    <a href="https://bolastylo.bolasport.com/read/172196271/bahaya-tidur-terlalu-lama-penyakit-jantung-hingga-ganggu-kesuburan" class="news-related__link">
+        <h3 class="news-related__category">
+                    </h3>
+        <h3 class="news-related__title">
+            Bahaya Tidur Terlalu Lama, Penyakit Jantung hingga Ganggu Kesuburan        </h3>
+    </a>
+</li>
+<li class="news-related__item">
+    <a href="https://bolastylo.bolasport.com/read/172196309/floyd-mayweather-sebut-petarung-muslim-terbaik-mma-khabib-luput" class="news-related__link">
+        <h3 class="news-related__category">
+                    </h3>
+        <h3 class="news-related__title">
+            Floyd Mayweather Sebut Petarung Muslim Terbaik MMA, Khabib Luput        </h3>
+    </a>
+</li>
+    </ul>
+</div>
+		</div>
+	</div>
+	<div class="section__right mt2">
+		<div class="ads__boxr ads__boxr--big">
+			<div class="ads__side">
+				<div class="ads__side">
+	<!-- DFP Giant Banner -->
+<div id='div-gpt-ad-giant'>
+     <script>
+               googletag.cmd.push(function() { googletag.display('div-gpt-ad-giant'); });
+     </script>
+</div>
+<!-- End DFP Giant Banner --></div>
+
+			</div>
+			<div class="ads__side mt2">
+				<div class="ads__side">
+	<!-- DFP MR3 -->
+	<div id='div-gpt-ad-MR3'>
+		<script>
+			     googletag.cmd.push(function() { googletag.display('div-gpt-ad-MR3'); });
+		</script>
+	</div>
+<!-- End DFP MR3 --></div>
+
+			</div>
+			<div class="ads__side mt2">
+				<!-- (ads.right.2) -->
+			</div>
+		</div>
+
+		<!-- popular article -->
+<div class="popular">
+	<div class="main__title mt6">
+		<h2 class="main__title--text">Popular</h2><span></span>
+	</div>
+	<div class="popular__wrapper">
+		<!-- (ads.popular) -->
+		<div class="popular__item clearfix">
+	<a href="https://bolastylo.bolasport.com/read/172597604/bobol-gawang-ac-milan-selebrasi-wonderkid-manchester-united-berujung-kontroversi" class="popular__big--link col-40">
+		<div class="popular__item--image"><img src="https://asset-a.grid.id/crop/0x0:0x0/95x95/photo/2021/03/12/amad-diallojpg-20210312032521.jpg" alt="Bobol Gawang AC Milan, Selebrasi Wonderkid Manchester United Berujung Kontroversi"></div>
+	</a>
+	<div class="popular__item--desc col-60 pad0">
+		<a href="https://bolastylo.bolasport.com/hotnow" class="popular__item--category">HotNow</a>
+		<a href="https://bolastylo.bolasport.com/read/172597604/bobol-gawang-ac-milan-selebrasi-wonderkid-manchester-united-berujung-kontroversi" class="popular__item--title">Bobol Gawang AC Milan, Selebrasi Wonderkid Manchester United Berujung Kontroversi</a>
+	</div>
+</div>
+<div class="popular__item clearfix">
+	<a href="https://bolastylo.bolasport.com/read/172597482/pbvsi-ungkap-kronologi-aprilia-manganang-lolos-tes-gender-di-sea-games-2015" class="popular__big--link col-40">
+		<div class="popular__item--image"><img src="https://asset-a.grid.id/crop/0x0:0x0/95x95/photo/bolasport/medium_78f6a9fc415efb68545dc686c7c07592.jpg" alt="PBVSI Ungkap Kronologi Aprilia Manganang Lolos Tes Gender di SEA Games 2015"></div>
+	</a>
+	<div class="popular__item--desc col-60 pad0">
+		<a href="https://bolastylo.bolasport.com/hotnow" class="popular__item--category">HotNow</a>
+		<a href="https://bolastylo.bolasport.com/read/172597482/pbvsi-ungkap-kronologi-aprilia-manganang-lolos-tes-gender-di-sea-games-2015" class="popular__item--title">PBVSI Ungkap Kronologi Aprilia Manganang Lolos Tes Gender di SEA Games 2015</a>
+	</div>
+</div>
+<div class="popular__item clearfix">
+	<a href="https://bolastylo.bolasport.com/read/172597583/pemain-ini-ngaku-menyesal-tinggalkan-real-madrid-28-tahun-silam" class="popular__big--link col-40">
+		<div class="popular__item--image"><img src="https://asset-a.grid.id/crop/0x0:0x0/95x95/photo/bolasport/medium_4d65da2e01f7434ce84d09205a8a8167.jpg" alt="Pemain Ini Ngaku Menyesal Tinggalkan Real Madrid 28 Tahun Silam"></div>
+	</a>
+	<div class="popular__item--desc col-60 pad0">
+		<a href="https://bolastylo.bolasport.com/hotnow" class="popular__item--category">HotNow</a>
+		<a href="https://bolastylo.bolasport.com/read/172597583/pemain-ini-ngaku-menyesal-tinggalkan-real-madrid-28-tahun-silam" class="popular__item--title">Pemain Ini Ngaku Menyesal Tinggalkan Real Madrid 28 Tahun Silam</a>
+	</div>
+</div>
+<div class="popular__item clearfix">
+	<a href="https://bolastylo.bolasport.com/read/172597612/bicara-kegagalan-cristiano-ronaldo-di-liga-champions-bruno-fernandes-kirim-alarm-buat-juventus" class="popular__big--link col-40">
+		<div class="popular__item--image"><img src="https://asset-a.grid.id/crop/0x0:0x0/95x95/photo/2021/03/11/ronaldo-squawkajpg-20210311120136.jpg" alt="Bicara Kegagalan Cristiano Ronaldo di Liga Champions, Bruno Fernandes Kirim Alarm Buat Juventus"></div>
+	</a>
+	<div class="popular__item--desc col-60 pad0">
+		<a href="https://bolastylo.bolasport.com/hotnow" class="popular__item--category">HotNow</a>
+		<a href="https://bolastylo.bolasport.com/read/172597612/bicara-kegagalan-cristiano-ronaldo-di-liga-champions-bruno-fernandes-kirim-alarm-buat-juventus" class="popular__item--title">Bicara Kegagalan Cristiano Ronaldo di Liga Champions, Bruno Fernandes Kirim Alarm Buat Juventus</a>
+	</div>
+</div>
+	</div>
+</div>				<div class="tagpop">
+	<div class="ads__side">
+	<!-- DFP Giant Banner 2 -->
+    <div id="div-gpt-ad-giant2">
+        <script>
+               googletag.cmd.push(function() { googletag.display('div-gpt-ad-giant'); });
+        </script>
+    </div>  
+            
+    <style>
+        #div-gpt-ad-giant2 {
+            width: 300px; height: auto; display: block; position: relative;
+        } 
+    </style>
+    <!--        
+    <script>
+        window.addEventListener("scroll", sticky_relocate); 
+        function sticky_relocate() {
+            var checkPathURL = window.location.pathname.split( '/' );
+            var getTotal_h = 0;
+            //console.log("PATHNAME : "+checkPathURL[1]);
+            if(checkPathURL[1] == "read"){
+                var getHeader_h = document.querySelector(".header__wrapper").offsetHeight + 153;
+                var getTopBig_h = document.querySelector(".ads__top-big").offsetHeight + 53;
+                var getPopular_h = document.querySelector(".section__right.mt2").offsetHeight;
+                getTotal_h = getHeader_h + getTopBig_h + getPopular_h;
+            }
+            else{
+                var getHeader_h = document.querySelector(".header__wrapper").offsetHeight + 153;
+                var getTopBig_h = document.querySelector(".ads__top-big").offsetHeight + 53;
+                var getCont1_h = document.querySelector(".navyblock.pv2").offsetHeight;
+                var getCont2_h = document.querySelector(".container.mt2").offsetHeight;
+                var getCont3_h = document.querySelector(".navyblock.navyblock--content.navyblock--light").offsetHeight + 100;
+                getTotal_h = getHeader_h + getTopBig_h + getCont1_h + getCont2_h + getCont3_h;
+            }
+            
+            var window_top = $(window).scrollTop();
+            var $sticky_tagpop = $(".tagpop"),
+            pos = {
+              abs : {
+                  position: "absolute",
+                  top: "auto",
+                  width: 300,
+                  height: "auto"
+              },
+              fix : {
+                  position: "fixed",
+                  top: 40, /* <<< SET AS DESIRED */ 
+                  width: 300,
+                  height: "auto"
+              },
+            };
+            var getToSticky = 560;
+            var canFix = (window_top >= getTotal_h) & (window_top < (getTotal_h + getToSticky)); 
+            $sticky_tagpop.css( pos[ canFix? "fix" : "abs" ] );
+        }
+    </script> 
+-->
+    <!-- End DFP Giant Banner 2 --></div>
+
+	<div class="tagpop__head">
+		<h2 class="tagpop__head--text">Tag Popular</h2>
+	</div>
+	<div class="tagpop__list">
+		<a href="https://bolastylo.bolasport.com/tag/live-streaming" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Live Streaming    </h3>
+</a>
+<a href="https://bolastylo.bolasport.com/tag/paris-saint-germain" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Paris Saint Germain    </h3>
+</a>
+<a href="https://bolastylo.bolasport.com/tag/anggita-oktaviani" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Anggita Oktaviani    </h3>
+</a>
+<a href="https://bolastylo.bolasport.com/tag/link-live-streaming" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Link Live Streaming    </h3>
+</a>
+<a href="https://bolastylo.bolasport.com/tag/aprilia-manganang" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Aprilia Manganang    </h3>
+</a>
+<a href="https://bolastylo.bolasport.com/tag/brylian-aldama" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Brylian Aldama    </h3>
+</a>
+<a href="https://bolastylo.bolasport.com/tag/hipospadia" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Hipospadia    </h3>
+</a>
+<a href="https://bolastylo.bolasport.com/tag/liverpool" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Liverpool    </h3>
+</a>
+<a href="https://bolastylo.bolasport.com/tag/barcelona" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Barcelona    </h3>
+</a>
+<a href="https://bolastylo.bolasport.com/tag/liga-champions" class="tagpop__item">
+    <h3 class="tagpop__title">
+        #Liga Champions    </h3>
+</a>
+	</div>
+</div>	</div>
+	<!-- ads horizontal-->
+<div class="ads__horizontal clearfix">
+	<a href="#" target="_blank">
+		<!-- DFP Bottom Frame -->
+    <div id='div-gpt-ad-bottom-frame' style="text-align: center; visibility: visible;">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-bottom-frame'); });
+        </script>
+    </div>
+    <div id="div-bottom-frame-transparent" style="opacity: 0.7;position: fixed;bottom: 0;min-height: 50px;max-height: 50px;background-color: #ECECEC; width: 1100px; text-align: center;z-index: -1;"></div>
+     <div id="dfp-close-bottomframe" style="visibility: hidden; width: 50px; height: 30px; position: fixed; bottom: 50px; z-index: 99999; cursor: pointer;  background: #DA3934; border-radius: 10px 10px 0px 0px;">
+      <span style="position: absolute; width: 100%; font: 30px/100% arial, sans-serif; color: #fff; text-align: center; line-height: 0.8; font-weight: 800;">x</span>
+ </div>
+
+    <script>
+        var wScreen_bf = screen.width; 
+        var getCloseBottomFrame = document.getElementById("dfp-close-bottomframe");
+        var getDivBottomFrame = document.getElementById("div-gpt-ad-bottom-frame");
+        var getDivTransparentBf = document.getElementById("div-bottom-frame-transparent");        
+
+        //Tweaking -> Remove href to place close button space
+        var getHrefBottomFrame = document.querySelector(".ads__horizontal a[target]");
+        getHrefBottomFrame.removeAttribute('href');
+        
+        setTimeout(function(){ showElClose_BottomFrame(); }, 10000);
+        getCloseBottomFrame.addEventListener("click",  removeEl_BottomFrame, false); 
+                                                         
+        //delay the close button
+        function showElClose_BottomFrame(){ 
+            getCloseBottomFrame.style.visibility = "visible";
+        }
+        function removeEl_BottomFrame(){ //Hide the banner
+            getDivBottomFrame.style.display = "none";
+            getCloseBottomFrame.style.display = "none";
+            getDivTransparentBf.style.display = "none";
+        } 
+    </script>    
+    <!-- End DFP Bottom Frame -->	</a>
+</div>
+
+</div>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+		<!-- DFP Popup -->
+      <div id='div-gpt-ad-popup'>
+            <script>
+                          googletag.cmd.push(function() { googletag.display('div-gpt-ad-popup'); });
+            </script>
+      </div>
+<!-- End DFP Popup -->
+
+		<!-- (ads.ballon) -->
+
+
+		<footer>
+    <div class="footermenu">
+        <div class="container footermenu__gate">
+            <div class="wrap-top clearfix">
+                <div class="footer-content footer-logo footer-left">
+                    <p><img src="https://asset-a.grid.id/file/bolastylo/img/logo-kg-white.png" alt=""></p>
+                </div>
+                <div class="footer-content footer-mid">
+                    <p><a target="_blank" href="https://www.GridNetwork.id">GridNetwork</a></p>
+                    <p>
+                        <a target="_blank" href="https://beautydate.grid.id" title="Beauty Date">
+                        Beauty Date								</a> |
+                        <a target="_blank" href="https://bobo.grid.id" title="Bobo.ID - Teman Bermain dan Belajar">
+                        Bobo								</a> |
+                        <a target="_blank" href="https://bolanas.bolasport.com" title="Bolanas.com - Portal Berita Sepak Bola Nasional">
+                        Bolanas								</a> |
+                        <a target="_blank" href="https://www.bolasport.com" title="Situs Berita Bola dan Olahraga Terlengkap - BolaSport.com">
+                        Bolasport								</a> |
+                        <a target="_blank" href="https://bolastylo.bolasport.com" title="BolaStylo - Sports Entertainment">
+                        BolaStylo								</a> |
+                        <a target="_blank" href="https://cewekbanget.grid.id" title="Situs untuk perempuan muda - CewekBanget.ID">
+                        CewekBanget								</a> |
+                        <a target="_blank" href="https://fotokita.grid.id" title="Portal Media dan Komunitas Mobile Photography dan Mirrorless Photography Nomor Satu di Indonesia ">
+                        Fotokita								</a> |
+                        <a target="_blank" href="https://fame.grid.id" title="Grid Fame.id">
+                        Grid Fame								</a> |
+                        <a target="_blank" href="https://games.grid.id" title="GridGames.id">
+                        Grid Games								</a> |
+                        <a target="_blank" href="https://health.grid.id" title="Inspiring Better Health - Gridhealth.id">
+                        Grid Health								</a> |
+                        <a target="_blank" href="https://hot.grid.id" title="Grid Hot - Hottest Entertainment News">
+                        Grid Hot								</a> |
+                        <a target="_blank" href="https://gridmotor.motorplus-online.com" title="Grid Motor">
+                        Grid Motor								</a> |
+                        <a target="_blank" href="https://pop.grid.id" title="Seputar kehidupan perempuan - GridPop.ID">
+                        Grid Pop								</a> |
+                        <a target="_blank" href="https://star.grid.id" title="Grid Star">
+                        Grid Star								</a> |
+                        <a target="_blank" href="https://www.grid.id" title="Celebrity Breaking News - Berita Selebritas Terkini Hari Ini - Grid.ID">
+                        Grid.ID								</a> |
+                        <a target="_blank" href="https://www.gridoto.com" title="GridOto.com - Simply Automotive Guide">
+                        Gridoto								</a> |
+                        <a target="_blank" href="https://hai.grid.id" title="Situs Majalah Remaja Cowok, Musik, Film - Hai-Online.com">
+                        Hai								</a> |
+                        <a target="_blank" href="https://hits.grid.id" title="GridHits.id">
+                        HIts								</a> |
+                        <a target="_blank" href="https://hype.grid.id" title="Hype.ID">
+                        Hype								</a> |
+                        <a target="_blank" href="https://idea.grid.id" title="iDEA Online">
+                        iDEA								</a> |
+                        <a target="_blank" href="https://infokomputer.grid.id" title="Discover Possibilities in Industry 4.0 Era - Infokomputer Online">
+                        Info Komputer								</a> |
+                        <a target="_blank" href="https://intisari.grid.id" title="Smart And Inspiring - Intisari Online">
+                        Intisari								</a> |
+                        <a target="_blank" href="https://jip.gridoto.com" title="Jip.co.id - Jip, SUV and 4x4 Automotive Guide">
+                        Jip.co.id								</a> |
+                        <a target="_blank" href="https://juara.bolasport.com" title="Situs Berita Olahraga Terlengkap  - Juara.Net">
+                        Juara								</a> |
+                        <a target="_blank" href="https://kids.grid.id" title="Grid Kids">
+                        Kids								</a> |
+                        <a target="_blank" href="https://kitchenesia.grid.id" title="Kitchenesia - Appetizing Recipes, Indonesian Way">
+                        Kitchenesia								</a> |
+                        <a target="_blank" href="https://makemac.grid.id" title="Situs Tips, Tutorial, Review dan Berita Apple Terbesar di Indonesia - MakeMac">
+                        MakeMac								</a> |
+                        <a target="_blank" href="https://www.motorplus-online.com" title="Motorplus - Portal berita motor pertama dan terkini">
+                        Motorplus								</a> |
+                        <a target="_blank" href="https://nakita.grid.id" title="For Moms and Everything that Matters - Nakita.ID">
+                        Nakita								</a> |
+                        <a target="_blank" href="https://nationalgeographic.grid.id" title="National Geographic Indonesia">
+                        National Geographic								</a> |
+                        <a target="_blank" href="https://nextren.grid.id" title="Berita Terkini Dunia Teknologi Hari ini - Nextren.grid.id">
+                        Nextren								</a> |
+                        <a target="_blank" href="https://nova.grid.id" title="Situs Wanita Paling Lengkap - Nova.ID">
+                        Nova								</a> |
+                        <a target="_blank" href="https://otofemale.grid.id" title="Female-style Automotive - Otofemale.id">
+                        Otofemale								</a> |
+                        <a target="_blank" href="https://otomania.gridoto.com" title="Berita Otomotif dan Panduan Konsumen Mobil Motor">
+                        Otomania.com								</a> |
+                        <a target="_blank" href="https://otomotifnet.gridoto.com" title="Otomotifnet.com – Peristiwa, industri dan teknologi otomotif Indonesia">
+                        Otomotifnet.com								</a> |
+                        <a target="_blank" href="https://otorace.gridoto.com" title="Otorace.id - Berita Balap Terlengkap">
+                        Otorace								</a> |
+                        <a target="_blank" href="https://otoseken.gridoto.com" title="Otoseken.id - Paling lengkap dan kredibel soal mobil dan motor seken">
+                        Otoseken								</a> |
+                        <a target="_blank" href="https://sajiansedap.grid.id" title="Resep Masak Lengkap, Mudah, Teruji">
+                        Sajian Sedap								</a> |
+                        <a target="_blank" href="https://sosok.grid.id" title="Nama di Balik Peristiwa - Sosok.ID">
+                        Sosok								</a> |
+                        <a target="_blank" href="https://sportfeat.bolasport.com" title="Sportfeat">
+                        Sportfeat								</a> |
+                        <a target="_blank" href="https://stylo.grid.id" title="Beauty For Everyone - Stylo.ID">
+                        Stylo								</a> |
+                        <a target="_blank" href="https://suar.grid.id" title="Berita unik dan hiburan - Suar.id">
+                        Suar								</a> |
+                        <a target="_blank" href="https://superball.bolasport.com" title="Situs Berita Sepakbola Nasional Terlengkap - Superball.ID">
+                        SuperBall								</a> |
+                        <a target="_blank" href="https://video.grid.id" title="Grid Video">
+                        Video								</a> |
+                        <a target="_blank" href="https://wiken.grid.id" title="WIKEN.ID menyajkan konten ringan dan santai">
+                        Wiken								</a> |
+                    <a target="_blank" rel="alternate noopener" href="https://gridvoice.co.id">Gridvoice</a> |
+                    <a target="_blank" rel="alternate noopener" title="Jasa Content Marketing Terbaik - Grid!" alt="Jasa Content Marketing Terbaik - Grid!" href="https://grid.co.id/">GRID Story Factory</a> |
+                    <a target="_blank" rel="alternate noopener" href="https://www.gramedia.com/">Gramedia.com</a> |
+                    <a target="_blank" rel="alternate noopener" href=" https://ebooks.gramedia.com">Gramedia Digital</a> |
+                            <a target="_blank" rel="alternate noopener" href="https://kgmedia.id/">KG Media</a>
+
+                    </p>
+                </div>
+                <div class="footer-content footer-logo footer-right">
+                    <p>
+                        <img src="https://asset-a.grid.id/file/bolastylo/img/main-logo-white.png">
+                    </p>
+                </div>
+            </div>
+            <div class="wrap-bottom">
+                <div class="bottom-footer">
+                    <span style="float:left">Hak Cipta &copy; Bolastylo.id 2021</span>
+                    <span style="float: right">
+                        <a href="https://bolastylo.bolasport.com/about">About Us</a> |
+                        <a href="https://bolastylo.bolasport.com/editorials">Editorials</a> |
+                        <a href="https://bolastylo.bolasport.com/privacy">Privacy Policy</a> |
+                          <a href="https://bolastylo.bolasport.com/pedoman">Pedoman Media Siber</a> |
+                        <a href="https://bolastylo.bolasport.com/contact">Contact Us</a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script type="text/javascript" src="https://asset-a.grid.id/file/bolastylo/js/main.js"></script>
+	<script type="text/javascript" src="https://asset-a.grid.id/file/bolastylo/fonts/icon/svgxuse.js?v=6"></script>
+	<script src="https://asset-a.grid.id/file/bolastylo/js/slick.min.js"></script>
+	<script src="https://asset-a.grid.id/file/bolastylo/js/jquery.sticky-kit.min.js"></script>
+	<script type="text/javascript" src="https://asset-a.grid.id/file/bolastylo/js/bolasport_sso_g_signin_v3.min.js" defer></script>
+	<script type="text/javascript">
+		var base_url = 'https://bolastylo.bolasport.com/';
+	</script>
+	<script src="https://bolastylo.bolasport.com/assets/js/general.js?v=3"></script>
+	<script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.5.6/firebase-app.js"></script>
+	<script type="text/javascript" src="https://www.gstatic.com/firebasejs/5.5.6/firebase-messaging.js"></script>
+	<!-- <script type="text/javascript" src="https://asset.kompas.com/data/2019/kgmedia/js/notifkgmedia.min.js?v=4"></script> -->
+	<script> window._izq = window._izq || []; window._izq.push(["init" ]); </script>
+	<script> window._izq.push(["epSyncState", true]); </script>
+	<script src="https://cdn.izooto.com/scripts/dafc384f0a6190e6b605510319530606fd648f13.js"></script>
+	<script src="https://asset.kompas.com/data/2019/kgmedia/js/notifkgmediaiZooto.min.js?v=3"></script>
+
+	<script type="text/javascript" src="https://asset-a.grid.id/file/bolastylo/js/sosmed_share.min.js"></script>	
+	<script>
+		function getCookie(cname) {
+			var name = cname + "=";
+			var decodedCookie = decodeURIComponent(document.cookie);
+			var ca = decodedCookie.split(';');
+			for(var i = 0; i <ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+				}
+				if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+				}
+			}
+			return null;
+		}
+	
+		if(getCookie('first_name') == null  && getCookie('isLogin') == null){
+			$('#sso').show();
+		}else{
+			$('#sso').show();
+			$('#txt_register').css('display','none');
+			$("#txt_signin").replaceWith("<a class='sso__link' href='https://account.bolasport.com/'> Hai, " + getCookie('first_name').split("+").join(" ") +"</a>");
+		}
+	</script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4203566,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4203566&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+	
 </body>
+
 </html>
